@@ -1,21 +1,23 @@
 body {
     color: white;
-    background: black;
+    background: rgb(185, 50, 50);
     margin: 0px;
-
+    
 
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228)
+    color: rgb(12, 47, 92);
 }
 
-
 section {
-    background: rgb(30, 7, 54);
+    background: rgb(88, 86, 109);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+
+
 }
